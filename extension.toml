@@ -1,0 +1,7 @@
+name = "Muted"
+version = "0.0.2"
+authors = ["Arif Zeeshan <26674272+arifzeeshan@users.noreply.github.com>"]
+description = "Muted Themes"
+repository = "https://github.com/arifzeeshan/Muted"
+id = "muted"
+schema_version = 1
